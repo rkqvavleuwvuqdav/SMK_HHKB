@@ -1,7 +1,7 @@
 (module Keyboard:SMK+Alps (layer F.Cu) (tedit 595666C1)
   (descr Alps)
   (tags Alps)
-  (fp_text reference SW_5 (at 0 2) (layer B.SilkS) hide
+  (fp_text reference SW_ (at 0 2) (layer B.SilkS) hide
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
   (fp_text value SMK+Alps (at 0 8.2) (layer F.SilkS) hide
